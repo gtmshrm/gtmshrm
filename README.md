@@ -1,6 +1,6 @@
 ### Hi there 👋! I’m Gautam..
 - 🌱 I’m currently learning how to write and optimize x86 assembly.
-- 💞️ I’m looking to collaborate on open-source projects related to systems programming.
+- 👯 I’m looking to collaborate on open-source projects related to systems programming.
 - 💬 Ask me about Robotics, Metal music, and PC Gaming!
 
 <!---
